@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../cku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/srodowisko_pracy_programisty" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/srodowisko_pracy_programisty/docker/frontend" vcs="Git" />
   </component>
 </project>
